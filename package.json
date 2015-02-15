@@ -1,0 +1,24 @@
+{
+  "name": "gholtz",
+  "title": "GHOLTZ",
+  "description": "Custom Theme for GHOLTZ portfolio site",
+  "version": "0.1.0",
+  "homepage": "http://GHOLTZ.com/",
+  "author": {
+    "name": "Gregor Holtz",
+    "email": "debrisplease@gmail.com",
+    "url": "http://GHOLTZ.com/"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-cssmin": "~0.6.0",
+    "grunt-contrib-imagemin": "~0.5.0",
+    "grunt-contrib-jshint": "~0.1.1",
+    "grunt-contrib-uglify": "~0.1.1",
+    "grunt-contrib-watch": "~0.2.0",
+    "grunt-sass": "^0.17.0",
+    "jpegtran-bin": "0.2.0",
+    "matchdep": "~0.1.2"
+  },
+  "keywords": []
+}
