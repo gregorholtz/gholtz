@@ -173,3 +173,7 @@ html {
   -webkit-box-sizing: inherit;
   -moz-box-sizing: inherit;
   box-sizing: inherit; }
+
+.home .site-content, .page .site-content, .blog .site-content {
+  width: 90%;
+  margin: 0 auto; }
